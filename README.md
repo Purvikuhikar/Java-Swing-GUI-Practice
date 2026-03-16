@@ -11,9 +11,6 @@ The goal of these programs is to practice building graphical user interfaces and
 
 ## Programs Included
 - Basic calculator
-- GST calculator
-- Profit and loss calculator
-- Customer data form
-- Maximum number finder
+- Even and Odd Checker
 
 These mini applications focus on understanding GUI components, event handling, and program logic.
